@@ -1,0 +1,1 @@
+WORK_DIR = "C://Users//Андрей//Desktop//lesson6"
